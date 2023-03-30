@@ -16,7 +16,7 @@
   <circle class="st1" cx="11" cy="11" r="8"/>
   <circle class="st0" cx="11" cy="11" r="8"/>
   <circle class="st0" cx="11" cy="11" r="8" style="fill: rgb(255, 229, 0);"/>
-  <g>
+  <g style="" transform="matrix(1.019484, 0, 0, 1.015587, -0.214324, -0.171457)">
     <g>
       <defs>
         <circle id="SVGID_1_" cx="11" cy="11" r="8"/>
