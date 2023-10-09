@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" x="0px" y="0px" viewBox="-286 409.9 22 22" style="enable-background:new -286 409.9 22 22;" xmlns="http://www.w3.org/2000/svg">
+  <style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#B82E22;}
+	.st2{fill:#DF3536;}
+	.st3{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
+	.st4{clip-path:url(#SVGID_4_);fill:#FFFFFF;}
+	.st5{fill:#E2E2E2;}
+</style>
+  <circle class="st1" cx="-275" cy="420.9" r="8" style="transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(0, 1, -0.999975, 0, 0.00671, 0.372299)"/>
+  <circle class="st0" cx="-275" cy="420.9" r="8" style="transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(0, 1, -0.999975, 0, 0.00671, 0.372299)"/>
+  <circle class="st2" cx="275" cy="-420.9" r="8" style="transform-box: fill-box; transform-origin: 50% 50%; fill: rgb(255, 255, 255);" transform="matrix(0, -1, 0.999975, 0, -549.993321, 842.172286)"/>
+  <rect x="266.7" y="-427.803" class="st0" width="10.6" height="1.807" style="fill: rgb(179, 25, 66); transform-origin: 271.999px -426.9px;" transform="matrix(-1, 0, 0, -1, -543.997753, 850.799518)"/>
+  <rect x="266.437" y="-421.38" class="st0" width="10.599" height="5.279" style="transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(-1, 0, 0, -1, -543.472962, 837.481014)"/>
+  <rect x="276.342" y="-424.159" class="st0" width="8.567" height="5.358" style="transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(-1, 0, 0, -1, -553.378228, 836.713308)"/>
+  <rect x="267.7" y="-427.901" class="st0" width="10.6" height="1.807" style="fill: rgb(179, 25, 66); transform-origin: 272.999px -426.998px;" transform="matrix(-1, 0, 0, -1, -545.997131, 853.995361)"/>
+  <rect x="268.7" y="-421.805" class="st0" width="10.6" height="1.807" style="fill: rgb(179, 25, 66); transform-origin: 273.999px -420.901px;" transform="matrix(-1, 0, 0, -1, -544.997814, 841.801898)"/>
+  <rect x="266.699" y="-418.803" class="st0" width="10.6" height="1.807" style="fill: rgb(179, 25, 66); transform-origin: 271.998px -417.9px;" transform="matrix(-1, 0, 0, -1, -543.996399, 835.799622)"/>
+  <rect x="268.699" y="-415.706" class="st0" width="10.6" height="1.807" style="fill: rgb(179, 25, 66); transform-origin: 273.998px -414.803px;" transform="matrix(-1, 0, 0, -1, -546.996045, 829.605608)"/>
+  <rect x="275.038" y="-480.753" class="st0" width="2.844" height="18.521" style="transform-box: fill-box; transform-origin: 50% 50%; fill: rgb(10, 49, 97);" transform="matrix(-1, 0, 0, -1, -552.919998, 892.764707)"/>
+  <rect x="277.571" y="-429.001" class="st0" width="2.844" height="16.246" style="transform-box: fill-box; transform-origin: 50% 50%; fill: rgb(10, 49, 97);" transform="matrix(-1, 0, 0, -1, -557.985965, 841.756028)"/>
+  <rect x="-269.742" y="414.203" class="st0" width="2.844" height="13.836" style="transform-box: fill-box; transform-origin: 50% 50%; fill: rgb(10, 49, 97);" transform="matrix(-1, 0, 0, -1, -12.611587, 0.128985)"/>
+  <rect x="280.571" y="-428.19" class="st0" width="2.844" height="13.836" style="transform-box: fill-box; transform-origin: 50% 50%; fill: rgb(10, 49, 97);" transform="matrix(-1, 0, 0, -1, -563.946609, 842.110064)"/>
+  <circle class="st2" cx="-282" cy="422.9" r="1.5" style="fill: rgb(255, 255, 255);"/>
+  <circle class="st2" cx="-282" cy="418.9" r="1.5" style="fill: rgb(255, 255, 255);"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 0.000006)">
+    <path class="st5" d="M-275,409.9c-6.1,0-11,4.9-11,11c0,6.1,4.9,11,11,11s11-4.9,11-11C-264,414.8-268.9,409.9-275,409.9z M-275,428.9c-4.4,0-8-3.6-8-8c0-4.4,3.6-8,8-8s8,3.6,8,8C-267,425.3-270.6,428.9-275,428.9z"/>
+  </g>
+  <circle class="st2" cx="-278" cy="424.9" r="1.5" style="fill: rgb(255, 255, 255);"/>
+  <circle class="st2" cx="-278" cy="416.9" r="1.5" style="fill: rgb(255, 255, 255);"/>
+  <circle class="st2" cx="-278" cy="420.9" r="1.5" style="fill: rgb(255, 255, 255);"/>
+</svg>
